@@ -1,0 +1,18 @@
+.col {
+    padding: 15px;
+    border: 2px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bi.bi-alarm {
+    font-size: 20px;
+    color: rgb(21, 34, 219);
+}
+.bi.bi-at {
+    color: rgb(71, 245, 71);
+    font-size:  20px;
+}
+.bi.bi-bicycle {
+    color: rgb(43, 188, 224);
+}
